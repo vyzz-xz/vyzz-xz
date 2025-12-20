@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi! I'm Muhamad Hafiz ✨
 Student Computer Science and Tech Enthusiast
 
 
