@@ -13,14 +13,7 @@ Student Computer Science and Tech Enthusiast
 ---
 [![](https://visitcount.itsvg.in/api?id=vyzz-xz&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Bagian Snake Animation -->
-
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/vyzz_xz/vyzz_xz/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/vyzz_xz/vyzz_xz/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/vyzz_xz/vyzz_xz/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+---
+![Snake animation](https://github.com/vyzz_xz/vyzz_xz/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
