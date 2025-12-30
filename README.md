@@ -13,4 +13,10 @@ Student Computer Science and Tech Enthusiast
 ---
 [![](https://visitcount.itsvg.in/api?id=vyzz-xz&icon=0&color=1)](https://visitcount.itsvg.in)
 
+<!-- Bagian Snake Animation -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github.com/vyzz_xz/vyzz_xz/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
