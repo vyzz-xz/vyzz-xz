@@ -11,7 +11,7 @@ Student Computer Science and Tech Enthusiast
 ![](https://nirzak-streak-stats.vercel.app/?user=vyzz-xz&theme=transparent&hide_border=false)<br/>
 
 ---
-![Snake animation](https://github.com/vyzz_xz/vyzz_xz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vyzz-xz/vyzz-xz/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vyzz-xz&icon=0&color=1)](https://visitcount.itsvg.in)
