@@ -14,6 +14,6 @@ Student Computer Science and Tech Enthusiast
 [![](https://visitcount.itsvg.in/api?id=vyzz-xz&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
-![Snake animation](https://github.com/vyzz_xz/vyzz_xz/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vyzz_xz/vyzz_xz/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
