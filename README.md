@@ -16,7 +16,11 @@ Student Computer Science and Tech Enthusiast
 <!-- Bagian Snake Animation -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github.com/vyzz_xz/vyzz_xz/blob/output/github-contribution-grid-snake.svg" alt="snake contribution" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/vyzz_xz/vyzz_xz/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://www.google.com/search?q=https://raw.githubusercontent.com/vyzz_xz/vyzz_xz/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://www.google.com/search?q=https://raw.githubusercontent.com/vyzz_xz/vyzz_xz/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
