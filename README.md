@@ -1,5 +1,5 @@
 # Hi! I'm Muhamad Hafiz ✨
-Student Computer Science and Tech Enthusiast
+A graduate of Computer Networking Engineering with practical skills in operating both software and hardware. Currently pursuing a degree in Computer Science at Singaperbangsa Karawang University.
 
 
 ## 🌐 Socials:
