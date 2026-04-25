@@ -3,7 +3,7 @@ A graduate of Computer Networking Engineering with practical skills in operating
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vyzzz_xz?igsh=MXA0emZ2c3M0cWI5cQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhamad-hafiz-37467b346) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@vyonixx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fizdstore@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vyzzz_xz?igsh=MXA0emZ2c3M0cWI5cQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhamad-hafizz) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@vyonixx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fizdstore@gmail.com) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
